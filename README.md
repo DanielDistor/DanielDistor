@@ -1,10 +1,8 @@
 ## Hey, I’m Daniel! 👋
 
-Nice to meet you — I’m a systems engineer and builder who loves turning messy real-world problems into clean, automated solutions.
+I’m a Systems Engineering grad student at Cornell University, with an undergrad background in Information Systems & Business Analytics from Loyola Marymount University.
 
-🎓 **Education**
-- M.Eng in Systems Engineering @ Cornell University
-- B.S. in Information Systems & Business Analytics @ Loyola Marymount University
+In my free time, I love building apps for everyday use — the kind of tools that make life a little easier or more fun.
 
 🛠️ **What I’m into**
 - Making operations run smoother (systems optimization, logistics, process improvement)
