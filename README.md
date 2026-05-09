@@ -1,19 +1,20 @@
-## 💫 About Me
+## Hey, I’m Daniel! 👋
 
-Hey, I’m Daniel 👋
+Nice to meet you — I’m a systems engineer and builder who loves turning messy real-world problems into clean, automated solutions.
 
-**Cornell University:** M.Eng Systems Engineering
-**Loyola Marymount University:** Information Systems and Business Analytics
+🎓 **Education**
+- M.Eng in Systems Engineering @ Cornell University
+- B.S. in Information Systems & Business Analytics @ Loyola Marymount University
 
-I’m interested in:
-- Systems optimization
-- Operations & logistics
-- Analytics
-- Quality & process improvement
+🛠️ **What I’m into**
+- Making operations run smoother (systems optimization, logistics, process improvement)
+- Building dashboards and data tools that actually get used
+- Automating the tedious stuff so people can focus on what matters
 
-Most of my projects focus on operational systems, dashboards, workflow optimization, and data-driven decision making using Python, SQL, and Streamlit.
+💻 **How I build**
+Most of my projects use Python, SQL, and Streamlit — I enjoy connecting data to decisions and shipping things that work in the real world.
 
-Currently building projects related to systems engineering, analytics, and business operations.
+Feel free to explore my repos and reach out — always happy to connect! 🤝
 
 
 ## 💻 Tech Stack:
