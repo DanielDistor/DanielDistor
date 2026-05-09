@@ -1,12 +1,20 @@
-## Hey, I’m Daniel! 👋
+# Hey, I’m Daniel! 👋
 
 I’m a Systems Engineering grad student at Cornell University, with an undergrad in Information Systems & Business Analytics from Loyola Marymount University.
 
-🎯 **What I’m looking to do**
-I’m passionate about process engineering, manufacturing operations, quality assurance, and continuous improvement — basically anywhere I can dig into how things are built, find the inefficiencies, and make them run better. I’m actively looking for roles where I can contribute to high-impact, high-performance operations.
+---
 
-🛠️ **In my free time**
-I love building apps for everyday use — the kind of tools that solve small annoyances and actually get used.
+🎯 &nbsp;**What I’m looking to do**
+
+I’m passionate about process engineering, manufacturing operations, quality assurance, and continuous improvement. I love digging into how things are built, finding the inefficiencies, and making systems run better. I’m actively looking for roles where I can contribute to high-impact, high-performance operations.
+
+---
+
+🛠️ &nbsp;**In my free time**
+
+I love building apps for everyday use — the kind of tools that solve real annoyances and actually get used.
+
+---
 
 Feel free to explore my repos and reach out — always happy to connect! 🤝
 
