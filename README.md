@@ -1,16 +1,12 @@
 ## Hey, I’m Daniel! 👋
 
-I’m a Systems Engineering grad student at Cornell University, with an undergrad background in Information Systems & Business Analytics from Loyola Marymount University.
+I’m a Systems Engineering grad student at Cornell University, with an undergrad in Information Systems & Business Analytics from Loyola Marymount University.
 
-In my free time, I love building apps for everyday use — the kind of tools that make life a little easier or more fun.
+🎯 **What I’m looking to do**
+I’m passionate about process engineering, manufacturing operations, quality assurance, and continuous improvement — basically anywhere I can dig into how things are built, find the inefficiencies, and make them run better. I’m actively looking for roles where I can contribute to high-impact, high-performance operations.
 
-🛠️ **What I’m into**
-- Making operations run smoother (systems optimization, logistics, process improvement)
-- Building dashboards and data tools that actually get used
-- Automating the tedious stuff so people can focus on what matters
-
-💻 **How I build**
-Most of my projects use Python, SQL, and Streamlit — I enjoy connecting data to decisions and shipping things that work in the real world.
+🛠️ **In my free time**
+I love building apps for everyday use — the kind of tools that solve small annoyances and actually get used.
 
 Feel free to explore my repos and reach out — always happy to connect! 🤝
 
