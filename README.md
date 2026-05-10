@@ -10,13 +10,13 @@
 
 ### 🎯 What I’m looking to do
 
-I’m passionate about process engineering, manufacturing operations, quality assurance, and continuous improvement. I love digging into how things are built, finding the inefficiencies, and making systems run better. I’m actively looking for roles where I can contribute to high-impact, high-performance operations.
+I’m passionate about process engineering, manufacturing operations, quality assurance, and continuous improvement.
 
 <br>
 
 ### 🛠️ In my free time
 
-I love building apps for everyday use. So far I’ve made a **bill splitter** and a **flights tracker**. The kind of tools that solve real annoyances and actually get used.
+I love building apps for everyday use. So far I’ve made a **bill splitter** and a **flights tracker**.
 
 <br>
 
