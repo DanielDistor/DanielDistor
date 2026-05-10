@@ -1,20 +1,32 @@
+<div align="center">
+
 # Hey, I’m Daniel! 👋
 
-Systems Engineering grad student @ Cornell &nbsp;·&nbsp; ISBA undergrad @ Loyola Marymount University
+**Systems Engineering** @ Cornell University &nbsp;|&nbsp; **Information Systems & Business Analytics** @ Loyola Marymount University
 
----
+<br>
 
-🎯 &nbsp;**What I’m looking to do**
+</div>
+
+### 🎯 What I’m looking to do
 
 I’m passionate about process engineering, manufacturing operations, quality assurance, and continuous improvement. I love digging into how things are built, finding the inefficiencies, and making systems run better. I’m actively looking for roles where I can contribute to high-impact, high-performance operations.
 
-🛠️ &nbsp;**In my free time**
+<br>
 
-I love building apps for everyday use. The kind of tools that solve real annoyances and actually get used.
+### 🛠️ In my free time
+
+I love building apps for everyday use. So far I’ve made a **bill splitter** and a **flights tracker** — the kind of tools that solve real annoyances and actually get used.
+
+<br>
 
 ---
 
+<div align="center">
+
 Feel free to explore my repos and reach out. Always happy to connect! 🤝
+
+</div>
 
 
 ## 💻 Tech Stack:
