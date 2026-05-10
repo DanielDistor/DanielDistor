@@ -8,15 +8,15 @@
 
 </div>
 
-### 🎯 Interests
+### 🎯 What I’m looking to do
 
-I’m interested in manufacturing systems, process improvement, quality & reliability, and operations engineering. I enjoy finding inefficiencies, improving workflows, and making systems run better.
+I’m passionate about process engineering, manufacturing operations, quality assurance, and continuous improvement. I love digging into how things are built, finding the inefficiencies, and making systems run better. I’m actively looking for roles where I can contribute to high-impact, high-performance operations.
 
 <br>
 
-### 🛠️ Projects
+### 🛠️ In my free time
 
-I like building apps for everyday use. So far, I’ve made a **bill splitter**, **flight tracker**, and **live availability dashboard**.
+I love building apps for everyday use. So far I’ve made a **bill splitter** and a **flights tracker**. The kind of tools that solve real annoyances and actually get used.
 
 <br>
 
@@ -24,54 +24,47 @@ I like building apps for everyday use. So far, I’ve made a **bill splitter**, 
 
 <div align="center">
 
-Feel free to explore my repos and connect 🤝
+Feel free to explore my repos and reach out. Always happy to connect! 🤝
 
 </div>
 
-<br>
 
 ## 💻 Tech Stack
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="10" cellpadding="10">
   <tr>
-    <td valign="top" width="20%">
-      <h3>Languages</h3>
-      <img width="150" height="30" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"><br><br>
-      <img width="150" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <td valign="top"><b>Languages</b><br><br>
+      <img width="140" height="28" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"><br>
+      <img width="140" height="28" src="https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white"><br>
+      <img width="140" height="28" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white">
     </td>
-
-    <td valign="top" width="20%">
-      <h3>Frameworks & Libraries</h3>
-      <img width="150" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><br><br>
-      <img width="150" height="30" src="https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white"><br><br>
-      <img width="150" height="30" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"><br><br>
-      <img width="150" height="30" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+    <td valign="top"><b>Frameworks & Libraries</b><br><br>
+      <img width="140" height="28" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"><br>
+      <img width="140" height="28" src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white"><br>
+      <img width="140" height="28" src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"><br>
+      <img width="140" height="28" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white">
     </td>
-
-    <td valign="top" width="20%">
-      <h3>Databases</h3>
-      <img width="150" height="30" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><br><br>
-      <img width="150" height="30" src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white"><br><br>
-      <img width="150" height="30" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"><br><br>
-      <img width="150" height="30" src="https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
+    <td valign="top"><b>Databases</b><br><br>
+      <img width="140" height="28" src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white"><br>
+      <img width="140" height="28" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"><br>
+      <img width="140" height="28" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"><br>
+      <img width="140" height="28" src="https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34">
     </td>
-
-    <td valign="top" width="20%">
-      <h3>Cloud & Deployment</h3>
-      <img width="150" height="30" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"><br><br>
-      <img width="150" height="30" src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white"><br><br>
-      <img width="150" height="30" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"><br><br>
-      <img width="150" height="30" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"><br><br>
-      <img width="150" height="30" src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
+    <td valign="top"><b>Cloud & Deployment</b><br><br>
+      <img width="140" height="28" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"><br>
+      <img width="140" height="28" src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white"><br>
+      <img width="140" height="28" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white"><br>
+      <img width="140" height="28" src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white"><br>
+      <img width="140" height="28" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white">
     </td>
-
-    <td valign="top" width="20%">
-      <h3>Tools & Design</h3>
-      <img width="150" height="30" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"><br><br>
-      <img width="150" height="30" src="https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white"><br><br>
-      <img width="150" height="30" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"><br><br>
-      <img width="150" height="30" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"><br><br>
-      <img width="150" height="30" src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white">
+    <td valign="top"><b>Tools & Design</b><br><br>
+      <img width="140" height="28" src="https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black"><br>
+      <img width="140" height="28" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white"><br>
+      <img width="140" height="28" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"><br>
+      <img width="140" height="28" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white"><br>
+      <img width="140" height="28" src="https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=sketchup&logoColor=white"><br>
+      <img width="140" height="28" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"><br>
+      <img width="140" height="28" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white">
     </td>
   </tr>
 </table>
