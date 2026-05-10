@@ -8,15 +8,15 @@
 
 </div>
 
-### 🎯 What I’m looking to do
+### About me
 
-I’m passionate about process engineering, manufacturing operations, quality assurance, and continuous improvement.
+I’m a systems thinker with a passion for operations — process engineering, manufacturing, quality assurance, and continuous improvement. I like understanding how things are built, spotting what’s slowing them down, and making them run better. It’s work that feels both technical and tangible, which is exactly what draws me to it.
 
 <br>
 
-### 🛠️ In my free time
+### 🛠️ What I build
 
-I love building apps for everyday use. So far I’ve made a **bill splitter** and a **flights tracker**.
+Outside of coursework, I enjoy making tools that solve everyday problems. So far I’ve shipped a **bill splitter** and a **flights tracker** — nothing fancy, just useful things people actually reach for.
 
 <br>
 
@@ -24,7 +24,7 @@ I love building apps for everyday use. So far I’ve made a **bill splitter** an
 
 <div align="center">
 
-Feel free to explore my repos and reach out. Always happy to connect! 🤝
+Feel free to poke around my repos. Always happy to connect! 🤝
 
 </div>
 
