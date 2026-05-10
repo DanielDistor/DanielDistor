@@ -2,7 +2,7 @@
 
 ### About me
 
-I’m studying **Systems Engineering** at Cornell and **Information Systems & Business Analytics** at LMU. I’m into how things are built and how to make them run better: process engineering, manufacturing, quality assurance. If there’s an inefficiency somewhere, I want to find it.
+I’m studying **Systems Engineering** at Cornell and **Information Systems & Business Analytics** at LMU. I’m into process engineering, manufacturing, and making operations run better.
 
 <br>
 
