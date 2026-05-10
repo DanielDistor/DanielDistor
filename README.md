@@ -2,7 +2,7 @@
 
 ### About me
 
-I’m studying **Systems Engineering** at Cornell University and **Information Systems & Business Analytics** at Loyola Marymount University. I’m a systems thinker with a passion for operations: process engineering, manufacturing, quality assurance, and continuous improvement. I like understanding how things are built, spotting what’s slowing them down, and making them run better. It’s work that feels both technical and tangible, which is exactly what draws me to it.
+I’m studying **Systems Engineering** at Cornell and **Information Systems & Business Analytics** at LMU. I’m into how things are built and how to make them run better: process engineering, manufacturing, quality assurance. If there’s an inefficiency somewhere, I want to find it.
 
 <br>
 
