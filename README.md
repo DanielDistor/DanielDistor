@@ -6,7 +6,7 @@ I’m studying **Systems Engineering** at Cornell and **Information Systems & Bu
 
 <br>
 
-### 🛠️ What I build
+### What I build
 
 Outside of coursework, I enjoy making tools that solve everyday problems. So far I’ve made a **bill splitter** and a **flights tracker**. Nothing fancy, just stuff that’s actually useful.
 
