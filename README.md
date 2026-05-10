@@ -1,37 +1,28 @@
 <div align="center">
 
-# Hey, I'm Daniel! 👋
+# Daniel Distor
 
-Studying **Systems Engineering** at Cornell and **Information Systems & Business Analytics** at LMU.
-I'm into process engineering, manufacturing, and making operations run better.
+Systems Engineering at Cornell &nbsp;·&nbsp; Information Systems & Business Analytics at LMU
 
-<br>
+<br><br>
 
-### What I build
-
-Outside of coursework, I enjoy making tools that solve everyday problems.
-So far I've made a **bill splitter** and a **flights tracker**. Nothing fancy, just stuff that's actually useful.
-
-<br>
-
-Feel free to poke around my repos. Always happy to connect! 🤝
+Into process engineering, manufacturing, and making operations run better.
+I make tools that solve real problems: a **bill splitter** and a **flights tracker**.
 
 </div>
 
-<br>
-
-## 💻 Tech Stack
+<br><br>
 
 <div align="center">
 
-**Languages** &nbsp;&nbsp; Python · Swift · HTML
+**Languages** &nbsp; Python · Swift · HTML
 
-**Frameworks & Libraries** &nbsp;&nbsp; React · Streamlit · Pandas · NumPy
+**Frameworks** &nbsp; React · Streamlit · Pandas · NumPy
 
-**Databases** &nbsp;&nbsp; MySQL · PostgreSQL · Supabase · Firebase
+**Databases** &nbsp; MySQL · PostgreSQL · Supabase · Firebase
 
-**Cloud & Deployment** &nbsp;&nbsp; AWS · Azure · Google Cloud · Vercel · Docker
+**Cloud** &nbsp; AWS · Azure · Google Cloud · Vercel · Docker
 
-**Tools & Design** &nbsp;&nbsp; Power BI · Jira · Figma · Canva · SketchUp · Arduino · WordPress
+**Tools** &nbsp; Power BI · Jira · Figma · Canva · SketchUp · Arduino · WordPress
 
 </div>
