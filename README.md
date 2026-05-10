@@ -6,8 +6,8 @@ Systems Engineering at Cornell &nbsp;·&nbsp; Information Systems & Business Ana
 
 <br><br>
 
-Into process engineering, manufacturing, and making operations run better.
-I make tools that solve real problems: a **bill splitter** and a **flights tracker**.
+I'm into process engineering, manufacturing, and figuring out how to make operations run better.
+Outside of school I like building things too. So far: a **bill splitter** and a **flights tracker**.
 
 </div>
 
